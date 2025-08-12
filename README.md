@@ -35,4 +35,4 @@ A fun and interactive web-based game that tests your knowledge of world flags. T
 
 *(Add a screenshot of your game in action here!)*
 
-![Game Screenshot](images/Screenshot 2025-08-12 141634.png)
+![images/Screenshot 2025-08-12 141634.png]

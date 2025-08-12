@@ -31,8 +31,3 @@ A fun and interactive web-based game that tests your knowledge of world flags. T
 2.  **Open `index.html`:**
     Simply open the `index.html` file in your web browser to start playing. No complex setup is required.
 
-## Screenshot
-
-*(Add a screenshot of your game in action here!)*
-
-![images/Screenshot 2025-08-12 141634.png]
